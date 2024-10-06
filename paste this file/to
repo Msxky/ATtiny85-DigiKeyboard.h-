@@ -1,1 +1,10 @@
+paste "package_digistump_index.json" to
 C:\Users\lenovo\AppData\Local\Arduino15
+next
+Instal Board: Digistump AVR Boards by Digistump 
+next
+Board: "Digispark (Default - 16.5mhz)"
+next
+Programmer: "Micronucleus"
+next
+Upload your code

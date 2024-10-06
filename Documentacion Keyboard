@@ -1,0 +1,152 @@
+| Nama Tombol           | Kode                | Kode Hexadecimal | Deskripsi                                          |
+|-----------------------|---------------------|------------------|----------------------------------------------------|
+| **Enter**             | `KEY_ENTER`         | `0x1C`           | Menekan tombol Enter.                              |
+| **Esc**               | `KEY_ESC`           | `0x29`           | Menekan tombol Escape.                             |
+| **Backspace**         | `KEY_BACKSPACE`     | `0x2A`           | Menekan tombol Backspace.                          |
+| **Tab**               | `KEY_TAB`           | `0x0F`           | Menekan tombol Tab.                                |
+| **Space**             | `KEY_SPACE`         | `0x2C`           | Menekan tombol Spasi.                              |
+| **Q**                 | `KEY_Q`             | `0x14`           | Menekan tombol Q.                                  |
+| **W**                 | `KEY_W`             | `0x1A`           | Menekan tombol W.                                  |
+| **E**                 | `KEY_E`             | `0x08`           | Menekan tombol E.                                  |
+| **R**                 | `KEY_R`             | `0x15`           | Menekan tombol R.                                  |
+| **T**                 | `KEY_T`             | `0x17`           | Menekan tombol T.                                  |
+| **Y**                 | `KEY_Y`             | `0x1C`           | Menekan tombol Y.                                  |
+| **U**                 | `KEY_U`             | `0x1D`           | Menekan tombol U.                                  |
+| **I**                 | `KEY_I`             | `0x1F`           | Menekan tombol I.                                  |
+| **O**                 | `KEY_O`             | `0x20`           | Menekan tombol O.                                  |
+| **P**                 | `KEY_P`             | `0x21`           | Menekan tombol P.                                  |
+| **A**                 | `KEY_A`             | `0x04`           | Menekan tombol A.                                  |
+| **S**                 | `KEY_S`             | `0x16`           | Menekan tombol S.                                  |
+| **D**                 | `KEY_D`             | `0x07`           | Menekan tombol D.                                  |
+| **F**                 | `KEY_F`             | `0x09`           | Menekan tombol F.                                  |
+| **G**                 | `KEY_G`             | `0x0A`           | Menekan tombol G.                                  |
+| **H**                 | `KEY_H`             | `0x0B`           | Menekan tombol H.                                  |
+| **J**                 | `KEY_J`             | `0x0D`           | Menekan tombol J.                                  |
+| **K**                 | `KEY_K`             | `0x0E`           | Menekan tombol K.                                  |
+| **L**                 | `KEY_L`             | `0x24`           | Menekan tombol L.                                  |
+| **Z**                 | `KEY_Z`             | `0x2C`           | Menekan tombol Z.                                  |
+| **X**                 | `KEY_X`             | `0x2D`           | Menekan tombol X.                                  |
+| **C**                 | `KEY_C`             | `0x2E`           | Menekan tombol C.                                  |
+| **V**                 | `KEY_V`             | `0x2F`           | Menekan tombol V.                                  |
+| **B**                 | `KEY_B`             | `0x30`           | Menekan tombol B.                                  |
+| **N**                 | `KEY_N`             | `0x31`           | Menekan tombol N.                                  |
+| **M**                 | `KEY_M`             | `0x32`           | Menekan tombol M.                                  |
+| **Comma (,)**         | `KEY_COMMA`         | `0x36`           | Menekan tombol Koma.                               |
+| **Period (.)**        | `KEY_PERIOD`        | `0x37`           | Menekan tombol Titik.                              |
+| **Slash (/)**         | `KEY_SLASH`         | `0x38`           | Menekan tombol Garis Miring.                       |
+| **Left Arrow**        | `KEY_LEFT_ARROW`    | `0x1E`           | Menekan tombol panah kiri.                         |
+| **Right Arrow**       | `KEY_RIGHT_ARROW`   | `0x1F`           | Menekan tombol panah kanan.                        |
+| **Up Arrow**          | `KEY_UP_ARROW`      | `0x18`           | Menekan tombol panah atas.                         |
+| **Down Arrow**        | `KEY_DOWN_ARROW`    | `0x19`           | Menekan tombol panah bawah.                        |
+| **Insert**            | `KEY_INSERT`        | `0x49`           | Menekan tombol Insert.                             |
+| **Delete**            | `KEY_DELETE`        | `0x4C`           | Menekan tombol Delete.                             |
+| **Home**              | `KEY_HOME`          | `0x4A`           | Menekan tombol Home.                               |
+| **End**               | `KEY_END`           | `0x4D`           | Menekan tombol End.                                |
+| **Page Up**           | `KEY_PAGE_UP`       | `0x4B`           | Menekan tombol Page Up.                            |
+| **Page Down**         | `KEY_PAGE_DOWN`     | `0x4E`           | Menekan tombol Page Down.                          |
+| **Alt**               | `KEY_LEFT_ALT`      | `0xE0`           | Menekan tombol Alt (kiri atau kanan).              |
+| **Ctrl**              | `KEY_LEFT_CTRL`     | `0xE0`           | Menekan tombol Ctrl (kiri atau kanan).             |
+| **Shift**             | `KEY_LEFT_SHIFT`    | `0xE0`           | Menekan tombol Shift (kiri atau kanan).            |
+| **Windows**           | `KEY_LEFT_GUI`      | `0xE3`           | Menekan tombol Windows kiri.                       |
+| **F1**                | `KEY_F1`            | `0x3A`           | Menekan tombol F1.                                 |
+| **F2**                | `KEY_F2`            | `0x3B`           | Menekan tombol F2.                                 |
+| **F3**                | `KEY_F3`            | `0x3C`           | Menekan tombol F3.                                 |
+| **F4**                | `KEY_F4`            | `0x3D`           | Menekan tombol F4.                                 |
+| **F5**                | `KEY_F5`            | `0x3E`           | Menekan tombol F5.                                 |
+| **F6**                | `KEY_F6`            | `0x3F`           | Menekan tombol F6.                                 |
+| **F7**                | `KEY_F7`            | `0x40`           | Menekan tombol F7.                                 |
+| **F8**                | `KEY_F8`            | `0x41`           | Menekan tombol F8.                                 |
+| **F9**                | `KEY_F9`            | `0x42`           | Menekan tombol F9.                                 |
+| **F10**               | `KEY_F10`           | `0x43`           | Menekan tombol F10.                                |
+| **F11**               | `KEY_F11`           | `0x44`           | Menekan tombol F11.                                |
+| **F12**               | `KEY_F12`           | `0x45`           | Menekan tombol F12.                                |
+| **Num Lock**          | `KEY_NUM_LOCK`      | `0x53`           | Menekan tombol Num Lock.                           |
+| **Caps Lock**         | `KEY_CAPS_LOCK`     | `0x39`           | Menekan tombol Caps Lock.                          |
+| **Scroll Lock**       | `KEY_SCROLL_LOCK`   | `0x47`           | Menekan tombol Scroll Lock.                        |
+| **Print Screen**      | `KEY_PRINT_SCREEN`  | `0x37`           | Menekan tombol Print Screen.                       |
+| **Pause/Break**       | `KEY_PAUSE`         | `0x48`           | Menekan tombol Pause/Break.                        |
+
+
+MOD_CONTROL_LEFT: Mengatur bit ke-0 untuk Ctrl kiri.
+MOD_SHIFT_LEFT: Mengatur bit ke-1 untuk Shift kiri.
+MOD_ALT_LEFT: Mengatur bit ke-2 untuk Alt kiri.
+MOD_GUI_LEFT: Mengatur bit ke-3 untuk tombol Windows (GUI) kiri.
+MOD_CONTROL_RIGHT: Mengatur bit ke-4 untuk Ctrl kanan.
+MOD_SHIFT_RIGHT: Mengatur bit ke-5 untuk Shift kanan.
+MOD_ALT_RIGHT: Mengatur bit ke-6 untuk Alt kanan.
+MOD_GUI_RIGHT: Mengatur bit ke-7 untuk tombol Windows (GUI) kanan.
+
+| Elemen                     | Tipe           | Deskripsi                                           |
+|---------------------------|----------------|-----------------------------------------------------|
+| MOD_CONTROL_LEFT          | `#define`      | Nilai untuk tombol Control kiri.                    |
+| MOD_SHIFT_LEFT            | `#define`      | Nilai untuk tombol Shift kiri.                      |
+| MOD_ALT_LEFT              | `#define`      | Nilai untuk tombol Alt kiri.                        |
+| MOD_GUI_LEFT              | `#define`      | Nilai untuk tombol Windows (GUI) kiri.              |
+| MOD_CONTROL_RIGHT         | `#define`      | Nilai untuk tombol Control kanan.                   |
+| MOD_SHIFT_RIGHT           | `#define`      | Nilai untuk tombol Shift kanan.                     |
+| MOD_ALT_RIGHT             | `#define`      | Nilai untuk tombol Alt kanan.                       |
+| MOD_GUI_RIGHT             | `#define`      | Nilai untuk tombol Windows (GUI) kanan.             |
+| KEY_A                     | `#define`      | Kode untuk tombol 'A'.                              |
+| KEY_B                     | `#define`      | Kode untuk tombol 'B'.                              |
+| KEY_C                     | `#define`      | Kode untuk tombol 'C'.                              |
+| KEY_D                     | `#define`      | Kode untuk tombol 'D'.                              |
+| KEY_E                     | `#define`      | Kode untuk tombol 'E'.                              |
+| KEY_F                     | `#define`      | Kode untuk tombol 'F'.                              |
+| KEY_G                     | `#define`      | Kode untuk tombol 'G'.                              |
+| KEY_H                     | `#define`      | Kode untuk tombol 'H'.                              |
+| KEY_I                     | `#define`      | Kode untuk tombol 'I'.                              |
+| KEY_J                     | `#define`      | Kode untuk tombol 'J'.                              |
+| KEY_K                     | `#define`      | Kode untuk tombol 'K'.                              |
+| KEY_L                     | `#define`      | Kode untuk tombol 'L'.                              |
+| KEY_M                     | `#define`      | Kode untuk tombol 'M'.                              |
+| KEY_N                     | `#define`      | Kode untuk tombol 'N'.                              |
+| KEY_O                     | `#define`      | Kode untuk tombol 'O'.                              |
+| KEY_P                     | `#define`      | Kode untuk tombol 'P'.                              |
+| KEY_Q                     | `#define`      | Kode untuk tombol 'Q'.                              |
+| KEY_R                     | `#define`      | Kode untuk tombol 'R'.                              |
+| KEY_S                     | `#define`      | Kode untuk tombol 'S'.                              |
+| KEY_T                     | `#define`      | Kode untuk tombol 'T'.                              |
+| KEY_U                     | `#define`      | Kode untuk tombol 'U'.                              |
+| KEY_V                     | `#define`      | Kode untuk tombol 'V'.                              |
+| KEY_W                     | `#define`      | Kode untuk tombol 'W'.                              |
+| KEY_X                     | `#define`      | Kode untuk tombol 'X'.                              |
+| KEY_Y                     | `#define`      | Kode untuk tombol 'Y'.                              |
+| KEY_Z                     | `#define`      | Kode untuk tombol 'Z'.                              |
+| KEY_1                     | `#define`      | Kode untuk tombol '1'.                              |
+| KEY_2                     | `#define`      | Kode untuk tombol '2'.                              |
+| KEY_3                     | `#define`      | Kode untuk tombol '3'.                              |
+| KEY_4                     | `#define`      | Kode untuk tombol '4'.                              |
+| KEY_5                     | `#define`      | Kode untuk tombol '5'.                              |
+| KEY_6                     | `#define`      | Kode untuk tombol '6'.                              |
+| KEY_7                     | `#define`      | Kode untuk tombol '7'.                              |
+| KEY_8                     | `#define`      | Kode untuk tombol '8'.                              |
+| KEY_9                     | `#define`      | Kode untuk tombol '9'.                              |
+| KEY_0                     | `#define`      | Kode untuk tombol '0'.                              |
+| KEY_ENTER                 | `#define`      | Kode untuk tombol Enter.                            |
+| KEY_SPACE                 | `#define`      | Kode untuk tombol Space.                            |
+| KEY_F1                    | `#define`      | Kode untuk tombol F1.                              |
+| KEY_F2                    | `#define`      | Kode untuk tombol F2.                              |
+| KEY_F3                    | `#define`      | Kode untuk tombol F3.                              |
+| KEY_F4                    | `#define`      | Kode untuk tombol F4.                              |
+| KEY_F5                    | `#define`      | Kode untuk tombol F5.                              |
+| KEY_F6                    | `#define`      | Kode untuk tombol F6.                              |
+| KEY_F7                    | `#define`      | Kode untuk tombol F7.                              |
+| KEY_F8                    | `#define`      | Kode untuk tombol F8.                              |
+| KEY_F9                    | `#define`      | Kode untuk tombol F9.                              |
+| KEY_F10                   | `#define`      | Kode untuk tombol F10.                             |
+| KEY_F11                   | `#define`      | Kode untuk tombol F11.                             |
+| KEY_F12                   | `#define`      | Kode untuk tombol F12.                             |
+| KEY_ARROW_UP              | `#define`      | Kode untuk tombol panah atas.                      |
+| KEY_ARROW_DOWN            | `#define`      | Kode untuk tombol panah bawah.                      |
+| KEY_ARROW_LEFT            | `#define`      | Kode untuk tombol panah kiri.                      |
+| KEY_ARROW_RIGHT           | `#define`      | Kode untuk tombol panah kanan.                     |
+| DigiKeyboardDevice        | `class`        | Kelas untuk mengontrol keyboard dan mengirimkan perintah. |
+| DigiKeyboard              | `DigiKeyboardDevice` | Instance dari kelas DigiKeyboardDevice.          |
+| void sendKeyStroke(byte keyStroke) | `method` | Mengirimkan penekanan tombol dan melepaskannya.   |
+| void sendKeyStroke(byte keyStroke, byte modifiers) | `method` | Mengirimkan penekanan tombol dengan modifier.     |
+| void sendKeyPress(byte keyPress) | `method` | Mengirimkan penekanan tombol tanpa melepaskan.    |
+| void sendKeyPress(byte keyPress, byte modifiers) | `method` | Mengirimkan penekanan tombol dengan modifier tanpa melepaskan. |
+| size_t write(uint8_t chr) | `method` | Mengirimkan karakter ASCII ke keyboard.             |
+| void update()             | `method` | Memperbarui status USB.                             |
+| void delay(long milli)    | `method` | Menunda eksekusi sambil memperbarui status USB.    |
+| uchar usbFunctionSetup(uchar data[8]) | `function` | Menangani permintaan setup USB.                    |

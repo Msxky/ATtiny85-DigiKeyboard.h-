@@ -150,3 +150,40 @@ MOD_GUI_RIGHT: Mengatur bit ke-7 untuk tombol Windows (GUI) kanan.
 | void update()             | `method` | Memperbarui status USB.                             |
 | void delay(long milli)    | `method` | Menunda eksekusi sambil memperbarui status USB.    |
 | uchar usbFunctionSetup(uchar data[8]) | `function` | Menangani permintaan setup USB.                    |
+
+
+-- EXAMPLE --
+#include "DigiKeyboard.h"
+
+void setup() {
+  // Nothing happens in setup
+}
+
+void loop() {
+  DigiKeyboard.sendKeyStroke(0);  // Initial keystroke, needed for some systems
+
+  // Open Run dialog (Win + R)
+  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
+  DigiKeyboard.delay(500);
+
+  // Type "chrome"
+  DigiKeyboard.print("chrome");
+  DigiKeyboard.delay(500);
+
+  // Press Enter to open Chrome
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(1000);
+
+  // Type YouTube URL
+  DigiKeyboard.print("https://www.youtube.com");
+  DigiKeyboard.delay(500);
+
+  // Press Enter to navigate to YouTube
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+
+  // Wait a bit before stopping further actions
+  DigiKeyboard.delay(10000);
+
+  // Stop further execution
+  for(;;);
+}
